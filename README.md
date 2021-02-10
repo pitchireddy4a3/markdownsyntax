@@ -57,6 +57,27 @@ def fun():
  [gmail](https://mail.google.com/mail/u/0/#inbox)
  ## college
  [KITS](http://kits-anna.com/gallery.php)
+ ## Git Commands
+ * git init 
+ * git status
+ * git branch
+ * git add filename
+ * git remote
+ * git remote -v
+ * git clone "repourl"
+ * git remote add remotename "repolink"
+ * git log
+ * git log --oneline
+ * git revert filename
+ * git reset filename
+ * git rm filename
+ * git config user.name "username"
+ * git config user.mail "user email"
+ * git commit -m "message"
+ * git push remotename branchname
+ * git pull remotename branchname
+ 
+
     
     
 
