@@ -1,2 +1,7 @@
-# markdownsyntax
-day2 GitHub workshop
+# Home automation by alexa
+## components
+### Circuit diagram
+#### analysis
+##### Output Obseravtion
+###### Conclusion
+
