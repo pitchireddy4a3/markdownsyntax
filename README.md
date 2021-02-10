@@ -38,6 +38,16 @@ cJCHLJoijh bhjgajcu
 - eee
     + eeeA
     + eeeB
+## Code of function defination
+```
+def fun():
+    print("Welcome to APSSDC")
+ ```
+ ## function calling
+ `
+ fun()
+ `
+    
     
 
 
