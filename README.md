@@ -52,7 +52,7 @@ def fun():
  print("hello World");
  ```
  ## Links
- [google](google.com/maps/timeline?hl=en)
+ [google](http //jiofi.local.html)
  
     
     
