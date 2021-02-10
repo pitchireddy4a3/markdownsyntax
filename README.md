@@ -76,6 +76,8 @@ def fun():
  * git commit -m "message"
  * git push remotename branchname
  * git pull remotename branchname
+ ## Inserting Images
+ ![Iamge](https://github.com/pitchireddy4a3/markdownsyntax/commit/5a8ebd99bda74b7d032d3d962345aeaac11db43f)
  
 
     
