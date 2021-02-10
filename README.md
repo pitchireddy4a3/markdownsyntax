@@ -52,7 +52,7 @@ def fun():
  print("hello World");
  ```
  ## Links
- [google](http //jiofi.local.html)
+ [google](http://jiofi.local.html)
  
     
     
